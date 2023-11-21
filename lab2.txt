@@ -63,7 +63,7 @@
 │       ├── git1
 │       └── lab1.txt
 ├── lab2
-└── link1
+└── link1 -> dir/date
 
 8 directories, 6 files
 
@@ -92,6 +92,6 @@
 │       ├── git1
 │       └── lab1.txt
 ├── lab2
-└── link1
+└── link1 -> dir/date
 
 8 directories, 7 files
